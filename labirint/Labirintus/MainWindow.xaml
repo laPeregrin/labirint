@@ -1,0 +1,140 @@
+﻿<Window x:Class="Labirintus.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Labirintus"
+        mc:Ignorable="d"
+        d:DataContext="{d:DesignInstance Type={x:Type local:GameManager}, IsDesignTimeCreatable=False}"
+            PreviewKeyDown="Window_KeyDown"
+            PreviewKeyUp="Window_KeyUp"      
+        Title="Bore Adventure" >
+
+    <Grid Background="Gray">
+        <Grid.Resources>
+            <Style TargetType="TextBlock">
+                <Setter Property="FontWeight" Value="Bold"/>
+            </Style>
+        </Grid.Resources>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="0"/>
+
+        <Grid x:Name="kartaGrid" Focusable="False">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Viewbox Cursor="Hand"  >
+                <ItemsControl x:Name="ic" ItemsSource="{Binding game.karta}">
+                    <ItemsControl.Background>
+                        <ImageBrush ImageSource="{Binding currentSkin.Bkg}"/>
+                    </ItemsControl.Background>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <ItemsControl  ItemsSource="{Binding}" FocusVisualStyle="{x:Null}">
+                                <ItemsControl.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </ItemsControl.ItemsPanel>
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate DataType="{x:Type local:Cell}">
+                                        <Border Width="30" Height="30" Background="{Binding Bkg}">
+                                            <Image Source="{Binding File}" />
+                                        </Border>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </Viewbox>
+
+            <Button x:Name="pauseButton" Click="pauseButtonClick" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding IsPaused}" Value="False">
+                                <Setter Property="Visibility" Value="Collapsed"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding IsPaused}" Value="True">
+                                <Setter Property="Visibility" Value="Visible"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding IsLoading}" Value="True">
+                                <Setter Property="Content" Value="Загрузка уровня..."/>
+                                <Setter Property="IsEnabled" Value="False"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding IsLoading}" Value="False">
+                                <Setter Property="Content" Value="Нажмите для продолжения..."/>
+                                <Setter Property="IsEnabled" Value="True"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+            <Grid Grid.Row="1">
+                <Label Name="LabelText" Width="0" Content="Доведите грустного Киану до выхода..." FontWeight="Bold" Background="LightGreen" FontSize="20"></Label>
+            </Grid>
+        </Grid>
+
+        <Grid Name="levelListGrid" Grid.Column="2" Margin="4" Focusable="False">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Уровни"/>
+
+            <ListBox Background="LightGray" Grid.Row="1" ItemsSource="{Binding levelList}" IsTabStop="False" TabIndex="-1">
+                <ListBox.ItemTemplate>
+                    <DataTemplate DataType="{x:Type local:Level}">
+                        <TextBlock Text="{Binding shortName}"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="ListBoxItem">
+                        <Setter Property="IsSelected" Value="{Binding IsSelected}"/>
+                        <Setter Property="ToolTip">
+                            <Setter.Value>
+                                <Image Source="{Binding fullPath}">
+                                    <Image.LayoutTransform>
+                                        <ScaleTransform ScaleX="5" ScaleY="5"/>
+                                    </Image.LayoutTransform>
+                                </Image>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+            </ListBox>
+
+            <TextBlock Grid.Row="2" Text="Стили"/>
+
+            <ListBox Background="LightGray" Grid.Row="3" ItemsSource="{Binding Skins.skinList}" IsTabStop="False" TabIndex="-1">
+                <ListBox.ItemTemplate>
+                    <DataTemplate DataType="{x:Type local:Skin}">
+                        <TextBlock Text="{Binding shortName}"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="ListBoxItem">
+                        <Setter Property="IsSelected" Value="{Binding IsSelected}"/>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+            </ListBox>
+
+        </Grid>
+    </Grid>
+
+</Window>
+    
+
+
+
+

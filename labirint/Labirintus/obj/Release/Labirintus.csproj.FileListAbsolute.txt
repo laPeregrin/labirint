@@ -1,0 +1,32 @@
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\App.g.cs
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\MainWindow.baml
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\Labirintus.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\Labirintus.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\Labirintus.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\_output\Bore  adventure.exe.config
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\_output\Bore  adventure.exe
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\_output\Bore  adventure.pdb
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\Labirintus.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\Bore  adventure_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\Bore  adventure_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\Bore  adventure.g.resources
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\Bore  adventure.exe
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Release\Bore  adventure.pdb
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\Labirintus.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\App.g.cs
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\Bore  adventure_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\Bore  adventure_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\Bore  adventure.exe
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\Bore  adventure.pdb
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\_output\Bore  adventure.exe.config
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\_output\Bore  adventure.exe
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\_output\Bore  adventure.pdb
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\MainWindow.baml
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\Bore  adventure.g.resources
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\Labirint.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\Labirintus.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Release\Labirintus.csproj.CoreCompileInputs.cache

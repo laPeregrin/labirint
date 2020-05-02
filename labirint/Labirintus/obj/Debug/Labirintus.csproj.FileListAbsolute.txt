@@ -1,0 +1,78 @@
+E:\proj_\Labirintus\Labirintus\_output\Labirintus.exe.config
+E:\proj_\Labirintus\Labirintus\_output\Labirintus.exe
+E:\proj_\Labirintus\Labirintus\_output\Labirintus.pdb
+E:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.csprojAssemblyReference.cache
+E:\proj_\Labirintus\Labirintus\obj\Debug\MainWindow.g.cs
+E:\proj_\Labirintus\Labirintus\obj\Debug\App.g.cs
+E:\proj_\Labirintus\Labirintus\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus_MarkupCompile.cache
+E:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus_MarkupCompile.lref
+E:\proj_\Labirintus\Labirintus\obj\Debug\MainWindow.baml
+E:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.g.resources
+E:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.Properties.Resources.resources
+E:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.csproj.GenerateResource.cache
+E:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.exe
+E:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.pdb
+G:\proj_\Labirintus\Labirintus\_output\Labirintus.exe.config
+G:\proj_\Labirintus\Labirintus\_output\Labirintus.exe
+G:\proj_\Labirintus\Labirintus\_output\Labirintus.pdb
+G:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.csprojAssemblyReference.cache
+G:\proj_\Labirintus\Labirintus\obj\Debug\MainWindow.g.cs
+G:\proj_\Labirintus\Labirintus\obj\Debug\App.g.cs
+G:\proj_\Labirintus\Labirintus\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus_MarkupCompile.cache
+G:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus_MarkupCompile.lref
+G:\proj_\Labirintus\Labirintus\obj\Debug\MainWindow.baml
+G:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.g.resources
+G:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.Properties.Resources.resources
+G:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.csproj.GenerateResource.cache
+G:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.exe
+G:\proj_\Labirintus\Labirintus\obj\Debug\Labirintus.pdb
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\_output\Labirintus.exe.config
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\_output\Labirintus.exe
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\_output\Labirintus.pdb
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\Labirintus.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\Labirintus_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\Labirintus_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\Labirintus.g.resources
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\Labirintus.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\Labirintus.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\Labirintus.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\Labirintus.exe
+C:\Users\ADMIN\Desktop\Stud\Labirintus\Labirintus\obj\Debug\Labirintus.pdb
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\_output\Labirintus.exe.config
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\_output\Labirintus.exe
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\_output\Labirintus.pdb
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\Labirintus.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\Labirintus_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\Labirintus_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\Labirintus.g.resources
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\Labirintus.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\Labirintus.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\Labirintus.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\Labirintus.exe
+C:\Users\ADMIN\Desktop\Labirintus\Labirintus\obj\Debug\Labirintus.pdb
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\_output\Bore  adventure.exe.config
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\_output\Bore  adventure.exe
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\_output\Bore  adventure.pdb
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\Bore  adventure_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\Bore  adventure_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\Bore  adventure.g.resources
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\Labirintus.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\Labirintus.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\Bore  adventure.exe
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\Bore  adventure.pdb
+C:\Users\ADMIN\Desktop\Stud\labirint\Labirintus\obj\Debug\Labirintus.csprojAssemblyReference.cache
